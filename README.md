@@ -33,8 +33,8 @@ The main method used in this project is the linear mixed-effects model, which is
 
 ## Files
 
-- `MATH 4939 Project Report.pdf` — full written report
-- `FINAL_UPDATED_CODE_FOR_THE_REPORT.Rmd` — R Markdown code
+- `final report.pdf` — full written report
+- `tbi kixed models analysis.Rmd` — R Markdown code
 - `TBI.xlsx` — dataset
 
 ## Tools used
