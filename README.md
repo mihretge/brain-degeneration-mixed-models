@@ -46,4 +46,4 @@ The main method used in this project is the linear mixed-effects model, which is
 
 ## Conclusion
 
-This project suggests that traumatic brain injury may be associated with long-term structural brain degeneration rather than a one-time event. It also shows that structural preservation alone may not fully explain functional recovery, which may depend on broader recovery mechanisms. :contentReference[oaicite:8]{index=8}
+This project suggests that traumatic brain injury may be associated with long-term structural brain degeneration rather than a one-time event. It also shows that structural preservation alone may not fully explain functional recovery, which may depend on broader recovery mechanisms. 
